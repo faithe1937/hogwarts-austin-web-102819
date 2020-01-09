@@ -22,7 +22,7 @@
 
 .headerText {
   color: #F5A9BC;
-  font-size: 3em;
+  font-size: 5em;
   margin: 0% 2% 0% 2%;
 }
 
@@ -44,7 +44,7 @@
 }
 
 .hoggyText {
-  font-size: 1.5em;
+  font-size: 3em;
 }
 
 .achievementText {
@@ -80,7 +80,7 @@ ul {
   float: left;
   margin: 2%;
   padding: 1%;
-  outline: #3B0B0B dotted thick;
+  outline:  #F5A9BC dotted thick;
   transition: 0.75s;
   opacity: 1;
 }
